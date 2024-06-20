@@ -52,11 +52,11 @@
 						<td style="width: 3rem" class="align-middle text-center">:</td>
 						<td class="align-middle"><?= date('d-M-Y, \P\u\k\u\l H:i', strtotime($pengaduan['tgl_pengaduan'])); ?></td>
 					</tr>
-					<tr>
+					<!-- <tr>
 						<th class="align-middle">Lokasi</th>
 						<td style="width: 3rem" class="align-middle text-center">:</td>
 						<td class="align-middle"><?= $pengaduan['kelurahan']; ?></td>
-					</tr>
+					</tr> -->
 				</table>
 			</div>
 		</div>
