@@ -68,65 +68,6 @@
 
 <main class="flex-shrink-0">
 	<div class="container pb-5">
-		<!-- <div class="row justify-content-center py-4">
-			<div class="col-lg">
-				<h4>Tata Cara Penggunaan Lapor Pak</h4>
-				<div class="row justify-content-center">
-					<div class="py-2 col-xl-2 col-lg-3 col-md-3">
-						<div class="card">
-						  <div class="card-body text-center">
-						  	<i class="fas fa-fw fa-file-signature"></i>
-							<h4>Daftar</h4>
-							<p>Melakukan Pendaftaran, dengan menekan tombol <a href="<?= base_url('landing/daftar'); ?>"> Daftar</a>. Jika sudah mendaftar tekan tombol <a href="<?= base_url('landing/masuk'); ?>"> Masuk</a>.</p>
-						  </div>
-						</div>
-					</div>
-					<div class="py-2 col-lg-1 my-auto card-guide">
-						<div class="progress rounded-pill">
-						  <div class="progress-bar bg-danger" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-						</div>
-					</div>
-					<div class="py-2 col-xl-2 col-lg-3 col-md-3">
-						<div class="card">
-						  <div class="card-body text-center">
-						  	<i class="fas fa-fw fa-sign-in-alt"></i>
-							<h4>Masuk</h4>
-							<p>Masuk, dengan mengisi username dan password yang telah Anda buat sebelumnya. Jika belum mendaftar tekan tombol <a href="<?= base_url('landing/daftar'); ?>"> Daftar</a>.</p>
-						  </div>
-						</div>
-					</div>
-					<div class="py-2 col-lg-1 my-auto card-guide">
-						<div class="progress rounded-pill">
-						  <div class="progress-bar bg-danger" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-						</div>
-					</div>
-					<div class="py-2 col-xl-2 col-lg-3 col-md-3">
-						<div class="card">
-						  <div class="card-body text-center">
-						  	<i class="fas fa-fw fa-exclamation"></i>
-							<h4>Pengaduan</h4>
-							<p>Pada bagian sidebar tekan menu tambah pengaduan untuk membuat laporan pengaduan.</p>
-						  </div>
-						</div>
-					</div>
-					<div class="py-2 col-lg-1 my-auto card-guide">
-						<div class="progress rounded-pill">
-						  <div class="progress-bar bg-danger" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-						</div>
-					</div>
-					<div class="py-2 col-xl-2 col-lg-3 col-md-3">
-						<div class="card">
-						  <div class="card-body text-center">
-						  	<i class="fas fa-fw fa-reply"></i>
-							<h4>Tanggapan</h4>
-							<p>Pada bagian sidebar tekan menu pengaduan untuk melihat seluruh pengaduan yang telah Anda buat. Untuk melihat tanggapan petugas, tekan tombol <button type="button" class="btn btn-xs btn-info"><i class="fas fa-fw fa-reply"></i></button>.</p>
-						  </div>
-						</div>
-					</div>
-				</div>	
-			</div>
-		</div> -->
-		<!-- tata cara -->
 		<div class="row py-4" id="tentang">
 			<div class="col-lg">
 				<h4>Tentang</h4>
